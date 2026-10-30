@@ -1,0 +1,35 @@
+terms,category,vegetarian,vegan,jain,halal,reason
+chicken|mutton|beef|pork|meat|lamb|goat|turkey|bacon|ham|salami|sausage|pepperoni|meat extract|chicken extract|chicken fat|beef fat,meat,avoid,avoid,avoid,check,Meat or meat-derived ingredient
+pork|lard|bacon|ham|pork fat|pork gelatin,pork,avoid,avoid,avoid,avoid,Pork-derived (not halal)
+fish|anchovy|tuna|sardine|fish sauce|fish oil|fish extract|cod liver oil|prawn|shrimp|crab|squid|oyster sauce,seafood,avoid,avoid,avoid,,Fish or seafood
+egg|egg powder|egg yolk|egg white|albumin|albumen|ovalbumin|mayonnaise|ins:1105|lysozyme,egg,avoid,avoid,avoid,,Egg-derived
+gelatin|gelatine|ins:441,animal_byproduct,avoid,avoid,avoid,check,Gelatin is made from animal skin/bones; halal only if certified source
+carmine|cochineal|carminic acid|ins:120,insect,avoid,avoid,avoid,check,Red colour made from crushed insects
+shellac|ins:904,insect,check,avoid,avoid,,Glazing agent secreted by lac insects
+beeswax|ins:901,insect,,avoid,avoid,,Bee product
+honey,bee_product,,avoid,avoid,,Bee product - avoided by vegans and many Jains
+bone phosphate|ins:542|bone char,animal_byproduct,avoid,avoid,avoid,check,Made from animal bones
+animal rennet|rennet,animal_byproduct,avoid,avoid,avoid,check,Rennet is often from calf stomach - check if microbial
+animal fat|tallow|suet,animal_byproduct,avoid,avoid,avoid,check,Animal fat
+l-cysteine|ins:920,ambiguous,check,check,check,check,Can be made from feathers or hair - source unclear
+mono- and diglycerides|mono and diglycerides|monoglycerides|ins:471|ins:472e|ins:481|ins:482,ambiguous,check,check,check,check,Emulsifier can be plant or animal fat - source unclear on most labels
+glycerol|glycerin|glycerine|ins:422,ambiguous,check,check,check,check,Can be plant or animal derived - source unclear
+stearic acid|ins:570|magnesium stearate|ins:470b,ambiguous,check,check,check,check,Can be plant or animal derived
+disodium inosinate|ins:631|ins:635|ribonucleotides,ambiguous,check,check,check,check,Flavour enhancer often made from meat or fish
+disodium guanylate|ins:627,ambiguous,check,check,check,check,Flavour enhancer sometimes made from fish
+natural flavour|natural flavours|natural flavor|natural flavors|natural flavouring|nature identical flavouring|flavouring substances|added flavours|added flavour,ambiguous,check,check,check,check,Flavourings can use animal or alcohol-based carriers - source unclear
+vitamin d3|cholecalciferol,ambiguous,,check,check,,Vitamin D3 is often from lanolin (sheep wool)
+omega-3|dha,ambiguous,check,check,check,,Often from fish oil unless algal
+milk|whey|casein|caseinate|butter|ghee|cream|cheese|paneer|khoa|mawa|curd|yogurt|milk solids|milk powder|lactose|buttermilk|malai,dairy,,avoid,,,Dairy is not vegan
+cheese,dairy,check,avoid,check,check,Cheese may use animal rennet
+alcohol|ethanol|wine|rum|brandy|beer|whisky|liqueur|ethyl alcohol,alcohol,,,avoid,avoid,Contains alcohol
+vanilla extract,alcohol,,,check,check,Vanilla extract is usually made with alcohol
+onion|onion powder|dehydrated onion|onion flakes|pyaz|pyaaz|shallot|spring onion|leek,root_bulb,,,avoid,,Onion family - avoided in Jain diet
+garlic|garlic powder|dehydrated garlic|lahsun|lehsun,root_bulb,,,avoid,,Garlic - avoided in Jain diet
+potato|potato starch|potato flakes|potato powder|aloo|dehydrated potato,root_bulb,,,avoid,,Potato is a root vegetable - avoided in Jain diet
+carrot|beetroot|radish|turnip|sweet potato|yam|arbi|colocasia|tapioca|cassava|tapioca starch,root_bulb,,,avoid,,Root vegetable - avoided in Jain diet
+ginger|ginger paste|ginger extract|adrak,root_bulb,,,check,,Fresh ginger is a root; many Jains accept dry ginger (sonth) - check
+turmeric|haldi,root_bulb,,,check,,Fresh turmeric is a root; dried powder is accepted by many Jains - check
+mushroom|fungi|yeast extract,fungus,,,avoid,,Fungi are avoided in Jain diet
+yeast,fermented,,,check,,Many Jains avoid yeast/fermented foods - check
+vinegar|acetic acid|ins:260,fermented,,,check,check,Fermented; spirit vinegar may concern strict halal/Jain diets

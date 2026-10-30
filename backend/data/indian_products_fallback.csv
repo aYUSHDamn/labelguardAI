@@ -1,0 +1,74 @@
+code,product_name,brand,category,energy_kcal,sugar_g,sodium_mg,fat_g,sat_fat_g,protein_g,fiber_g,ingredients,may_contain,price_inr
+FB-001,Marie Gold,Britannia,biscuits_cookies,440,22,380,11,5.5,8,1.5,refined wheat flour (maida); sugar; edible vegetable oil (palm); invert sugar syrup; milk solids; raising agents (INS 503; INS 500); salt; emulsifier (INS 322),nuts,30
+FB-002,Good Day Cashew Cookies,Britannia,biscuits_cookies,500,26,320,24,12,7,1,refined wheat flour (maida); sugar; edible vegetable oil (palm); cashew (4%); invert sugar syrup; milk solids; butter; raising agents (INS 503; INS 500); salt; emulsifier (INS 471); artificial flavour,,30
+FB-003,Parle-G Glucose Biscuits,Parle,biscuits_cookies,450,25,300,12,6,6.5,1,wheat flour; sugar; edible vegetable oil (palm); invert sugar syrup; milk solids; raising agents (INS 503; INS 500); salt; emulsifiers (INS 322; INS 471); artificial flavouring substances,,10
+FB-004,Bourbon Chocolate Cream,Britannia,biscuits_cookies,480,34,330,19,9.5,5.5,2,refined wheat flour (maida); sugar; edible vegetable oil (palm); cocoa solids; invert sugar syrup; dextrose; raising agents (INS 503; INS 500); salt; emulsifiers (INS 322; INS 471); artificial flavours,nuts,30
+FB-005,NutriChoice Digestive High Fibre,Britannia,biscuits_cookies,460,13,450,19,9,8,10,whole wheat flour (atta 52%); refined wheat flour; edible vegetable oil (palm); sugar; wheat bran; invert sugar syrup; milk solids; raising agents (INS 500; INS 503); salt; emulsifier (INS 322),,40
+FB-006,Oats Digestive Biscuits,McVitie's,biscuits_cookies,470,15,480,20,9,7,6,wheat flour; oats (20%); vegetable oil (palm); whole wheat flour; sugar; invert sugar syrup; raising agents (INS 500; INS 503); salt,,50
+FB-007,Ragi Cookies (No Maida),Early Foods,biscuits_cookies,450,12,180,18,7,7,6,ragi flour; whole wheat flour; jaggery; butter; oats; cardamom; raising agent (INS 500),nuts,150
+FB-008,Sugar Free Marie Light,Sunfeast,biscuits_cookies,430,2,400,13,6,9,4,refined wheat flour (maida); edible vegetable oil (palm); maltitol; wheat fibre; milk solids; raising agents (INS 500; INS 503); salt; sweetener (INS 955); emulsifier (INS 322),nuts,35
+FB-010,Classic Salted Potato Chips,Lay's,chips_namkeen,545,1,650,34,14,6.5,4,potato; edible vegetable oil (palmolein; rice bran oil); iodised salt,,20
+FB-011,Magic Masala Potato Chips,Lay's,chips_namkeen,540,3,850,33,13,6.5,3.5,potato; edible vegetable oil (palmolein); seasoning (sugar; iodised salt; spices; onion powder; garlic powder; flavour enhancers (INS 627; INS 631); acidity regulator (INS 330)),milk,20
+FB-012,Kurkure Masala Munch,Kurkure,chips_namkeen,555,3,900,34,15,6,1.5,rice meal; edible vegetable oil (palmolein); corn meal; gram meal; spices and condiments (onion powder; chilli powder; garlic powder); iodised salt; sugar; flavour enhancer (INS 627; INS 631); acidity regulator (INS 330),milk,20
+FB-013,Aloo Bhujia,Haldiram's,chips_namkeen,600,1.5,700,42,16,10,4,gram flour (besan); potato; edible vegetable oil (palmolein); moth bean flour; salt; spices; citric acid,peanut,55
+FB-014,Roasted Makhana Peri Peri,Farmley,chips_namkeen,420,3,520,14,2.5,10,8,fox nuts (makhana 85%); rice bran oil; seasoning (salt; chilli; spices; sugar; onion powder; garlic powder),peanut;tree nuts,99
+FB-015,Baked Multigrain Chips,Too Yumm,chips_namkeen,450,4,700,15,6,9,5,corn grits; rice; wheat; ragi; edible vegetable oil (palmolein); salt; spices; sugar; flavour enhancer (INS 627; INS 631),milk,20
+FB-016,Roasted Chana (Plain),Tata Sampann,chips_namkeen,370,1,30,6,1,22,17,bengal gram (chana),,60
+FB-020,Masala Instant Noodles,Maggi,instant_noodles,430,2.5,1100,15,7,9,2.5,refined wheat flour (maida); palm oil; iodised salt; wheat gluten; thickeners (INS 508; INS 412); acidity regulators (INS 501; INS 500); humectant (INS 451); masala tastemaker (onion; garlic; spices; sugar; flavour enhancer INS 635),milk;mustard;soy,14
+FB-021,Atta Noodles Masala,Maggi,instant_noodles,390,2.5,950,11,5,10,6,whole wheat flour (atta 75%); refined wheat flour; palm oil; iodised salt; wheat gluten; thickener (INS 412); tastemaker (onion; garlic; spices; sugar),milk;mustard;soy,30
+FB-022,Yippee Magic Masala Noodles,Sunfeast,instant_noodles,440,3,1000,16,8,9,2,refined wheat flour (maida); edible vegetable oil (palm); salt; wheat gluten; masala (onion; garlic; spices; sugar; flavour enhancer INS 627; INS 631),milk;soy,14
+FB-023,Millet Noodles (No Maida),Slurrp Farm,instant_noodles,360,2,380,4,1,10,7,millet flour (ragi; jowar); whole wheat flour; salt; spices; turmeric,,90
+FB-024,Hakka Noodles (Dry),Ching's Secret,instant_noodles,350,1,330,1.5,0.4,11,2.5,refined wheat flour (maida); salt; wheat gluten,,45
+FB-030,Corn Flakes Original,Kellogg's,breakfast_cereals,380,8,550,1,0.3,7,3,corn grits; sugar; malt extract; iodised salt; vitamins; minerals,,170
+FB-031,Chocos,Kellogg's,breakfast_cereals,390,30,300,3,1,7.5,5,whole wheat flour; sugar; cocoa solids; corn grits; liquid glucose; malt extract; iodised salt; vitamins; minerals; emulsifier (INS 322); artificial flavour,milk;nuts,200
+FB-032,Rolled Oats,Saffola,breakfast_cereals,390,1,5,8,1.5,12,10,rolled oats (100%),,190
+FB-033,Masala Oats Classic,Saffola,breakfast_cereals,380,4,950,8,2,11,8,rolled oats (77%); vegetables (onion; carrot; peas); salt; spices; sugar; flavour enhancer (INS 627; INS 631); thickener (INS 1422),milk;soy;mustard,25
+FB-034,Muesli No Added Sugar,Yogabar,breakfast_cereals,400,8,40,12,2,13,10,rolled oats; almonds; seeds (pumpkin; sunflower); dried fruits (raisins; dates); quinoa,peanut;soy,350
+FB-035,Fruit and Nut Muesli,Kellogg's,breakfast_cereals,390,24,200,6,1.5,8,6,whole wheat flakes; sugar; oats; raisins; almonds; liquid glucose; honey; malt extract; salt,peanut,250
+FB-036,Ragi Flakes,Manna,breakfast_cereals,370,3,60,2,0.5,8,9,ragi (finger millet) flakes,,120
+FB-040,Dairy Milk Chocolate,Cadbury,chocolates_confectionery,535,57,100,30,18,7.5,1,sugar; milk solids; cocoa butter; cocoa solids; emulsifiers (INS 442; INS 476); artificial flavour (vanilla),nuts,50
+FB-041,KitKat,Nestle,chocolates_confectionery,515,50,90,26,16,6.5,1.5,sugar; refined wheat flour; milk solids; cocoa butter; hydrogenated vegetable fat; cocoa solids; emulsifier (INS 322); raising agent (INS 500); artificial flavour,nuts,30
+FB-042,Dark Chocolate 70%,Amul,chocolates_confectionery,560,29,20,40,24,8,10,cocoa solids; sugar; cocoa butter; emulsifier (INS 322),milk;nuts,120
+FB-043,Dark Chocolate 55% (Jaggery),Paul and Mike,chocolates_confectionery,540,34,15,37,22,7,9,cocoa mass; jaggery; cocoa butter,milk;nuts,180
+FB-050,Coca-Cola,Coca-Cola,soft_drinks,44,10.6,10,0,0,0,0,carbonated water; sugar; acidity regulator (INS 338); caramel colour (INS 150d); natural flavouring substances; caffeine,,40
+FB-051,Thums Up,Coca-Cola,soft_drinks,44,10.9,10,0,0,0,0,carbonated water; sugar; acidity regulator (INS 338); caramel colour (INS 150d); caffeine; added flavours,,40
+FB-052,Coke Zero,Coca-Cola,soft_drinks,0.4,0,15,0,0,0,0,carbonated water; caramel colour (INS 150d); acidity regulators (INS 338; INS 331); sweeteners (INS 951; INS 950); natural flavouring substances; caffeine,,40
+FB-053,Plain Soda Water,Kinley,soft_drinks,0,0,20,0,0,0,0,carbonated water; sodium bicarbonate,,20
+FB-054,Lemon Nimbu Soda (Lightly Sweetened),Paper Boat,soft_drinks,30,7,90,0,0,0,0,water; sugar; lemon juice; salt; black salt; cumin; acidity regulator (INS 330),,40
+FB-060,Real Mixed Fruit Juice,Dabur,juices,55,12.5,10,0,0,0.2,0,water; mixed fruit concentrate; sugar; acidity regulator (INS 330); stabilizer (INS 440),,120
+FB-061,Frooti Mango Drink,Parle Agro,juices,65,15,15,0,0,0,0,water; mango pulp (19.5%); sugar; acidity regulator (INS 330); antioxidant (INS 300); added flavours,,20
+FB-062,Tropicana 100% Orange Juice,Tropicana,juices,45,9,5,0,0,0.5,0.2,orange juice from concentrate,,130
+FB-063,Coconut Water (Tender),Raw Pressery,juices,20,4.5,30,0,0,0.2,0,tender coconut water (100%),,60
+FB-070,Cold Coffee,Amul,dairy_drinks,80,11,50,2.5,1.6,3,0,toned milk; sugar; coffee; stabilizer (INS 407),,30
+FB-071,Chocolate Milk Shake,Hershey's,dairy_drinks,95,13,60,2.5,1.6,3.3,0.5,toned milk; sugar; cocoa; stabilizer (INS 407); salt; artificial flavour,,40
+FB-072,Masala Chaas (Buttermilk),Amul,dairy_drinks,20,1.5,200,0.5,0.3,1,0,curd; water; salt; spices; ginger; green chilli,,15
+FB-073,High Protein Milk Shake (No Added Sugar),Amul,dairy_drinks,60,3,60,1.5,1,6,0,skimmed milk; milk protein concentrate; cocoa; stabilizer (INS 407); sweetener (INS 955),,40
+FB-080,Fruit Yogurt Strawberry,Epigamia,yogurt_curd,110,12,45,3,2,7,0,milk; sugar; strawberry; milk protein; culture; stabilizer (INS 1422),,45
+FB-081,Greek Yogurt Natural,Epigamia,yogurt_curd,75,3.5,40,2.5,1.6,9,0,toned milk; milk solids; active cultures,,50
+FB-082,Masti Dahi,Amul,yogurt_curd,60,4,45,3.1,2,3.1,0,pasteurised toned milk; culture,,35
+FB-090,White Bread,Britannia,bread_bakery,250,5,480,1.8,0.8,8,2,refined wheat flour (maida); water; sugar; yeast; salt; edible vegetable oil; preservative (INS 282); emulsifier (INS 471); acidity regulator (INS 260),soy,40
+FB-091,100% Whole Wheat Bread,Modern,bread_bakery,240,3.5,420,2.5,0.6,9,6,whole wheat flour (atta); water; yeast; sugar; salt; edible vegetable oil; wheat gluten; preservative (INS 282),soy,55
+FB-092,Multigrain Bread,English Oven,bread_bakery,255,4,450,3.5,0.9,9,5,refined wheat flour; whole wheat flour; multigrains (oats; flax seeds; sunflower seeds); yeast; sugar; salt; preservative (INS 282); emulsifier (INS 471),soy;sesame,55
+FB-093,Plain Cake Slice,Britannia,bread_bakery,400,32,300,18,8,5,0.5,refined wheat flour (maida); sugar; edible vegetable oil; egg; invert sugar syrup; milk solids; humectant (INS 422); raising agents (INS 500; INS 450); preservative (INS 202); artificial flavour,nuts,30
+FB-100,Tomato Ketchup,Kissan,sauces_ketchup,115,25,1000,0.1,0,1.2,0.5,water; tomato paste (28%); sugar; salt; acidity regulator (INS 260); thickener (INS 1422); onion; garlic; spices; preservative (INS 211),,99
+FB-101,No Onion No Garlic Tomato Ketchup,Maggi,sauces_ketchup,120,26,1050,0.1,0,1.2,0.5,water; tomato paste; sugar; salt; acidity regulator (INS 260); thickener (INS 1422); spices; preservative (INS 211),,110
+FB-102,Tomato Ketchup No Added Sugar,Veeba,sauces_ketchup,40,6,700,0.2,0,1.5,1,tomato paste (45%); water; salt; acidity regulator (INS 260); thickener (INS 415); spices; sweetener (INS 955); preservative (INS 211),,140
+FB-110,Mixed Fruit Jam,Kissan,spreads_jams,270,66,30,0,0,0.3,0.5,sugar; mixed fruit pulp (45%); acidity regulator (INS 330); gelling agent (INS 440); preservative (INS 211); synthetic colours (INS 122; INS 133),,90
+FB-111,Peanut Butter Creamy,Pintola,spreads_jams,620,7,250,50,9,26,7,roasted peanuts; sugar; hydrogenated vegetable oil; salt,tree nuts,250
+FB-112,All Natural Peanut Butter (Unsweetened),Pintola,spreads_jams,640,4,5,51,8.5,30,8,roasted peanuts (100%),tree nuts,280
+FB-113,Hazelnut Cocoa Spread,Nutella,spreads_jams,540,56,40,31,10.5,6.3,3.4,sugar; palm oil; hazelnuts (13%); skimmed milk powder; fat-reduced cocoa; emulsifier (INS 322); vanillin,peanut,350
+FB-120,Bournvita,Cadbury,health_drinks,385,37,250,1.8,1,7,4,cereal extract (malted barley; wheat); sugar; cocoa solids; milk solids; liquid glucose; caramel colour (INS 150c); emulsifier (INS 471); salt; vitamins; minerals,,230
+FB-121,Horlicks Classic Malt,Horlicks,health_drinks,375,32,250,2,1,11,4,wheat flour; malted barley; milk solids; sugar; minerals; salt; vitamins,,250
+FB-122,Bournvita Less Sugar,Cadbury,health_drinks,380,25,220,2,1,9,6,cereal extract (malted barley; wheat); sugar; cocoa solids; milk solids; maltodextrin; minerals; vitamins; emulsifier (INS 471),,240
+FB-123,Unsweetened Cocoa Powder,Hershey's,health_drinks,350,1,20,11,6.5,20,33,cocoa powder (100%),milk;nuts,200
+FB-124,Ragi Malt (No Added Sugar),Manna,health_drinks,360,2,30,1.5,0.5,8,10,sprouted ragi flour; cardamom,,120
+FB-130,Protein Bar Chocolate,RiteBite Max,nutrition_bars,390,18,150,13,7,30,4,soy protein isolate; whey protein; sugar; cocoa butter; invert sugar syrup; maltodextrin; glycerol (INS 422); cocoa solids; emulsifier (INS 322),peanut;tree nuts;milk,100
+FB-131,Choco Almond Protein Bar,Yogabar,nutrition_bars,410,8,90,16,5,30,10,whey protein; almonds; dates; dark chocolate; brown rice syrup; oats; cocoa,peanut;soy,100
+FB-132,Date and Nut Bar (No Added Sugar),Whole Truth,nutrition_bars,420,26,20,17,3,13,9,dates; almonds; cashews; cocoa; egg white,peanut,90
+FB-133,Granola Bar Honey,Sunfeast,nutrition_bars,420,28,200,13,6,7,4,oats; sugar; liquid glucose; honey; edible vegetable oil (palm); rice crispies; humectant (INS 422),nuts;soy,25
+FB-140,Poha Ready Meal,MTR,ready_to_eat,180,3,520,6,2.5,3.5,2,flattened rice; water; edible vegetable oil; peanuts; onion; salt; green chilli; turmeric; sugar; curry leaves,,60
+FB-141,Dal Makhani Ready to Eat,Haldiram's,ready_to_eat,120,2,600,6,3.5,4.5,3,water; black gram; kidney beans; butter; cream; tomato; onion; garlic; ginger; salt; spices,,110
+FB-142,Rajma Masala Ready to Eat,MTR,ready_to_eat,105,2,480,3.5,0.8,5,4,water; kidney beans; tomato; onion; edible vegetable oil; salt; ginger; garlic; spices,,95
+FB-150,Gulab Jamun (Tinned),Haldiram's,sweets_mithai,300,55,60,6,3,3,0.5,sugar; water; khoya; refined wheat flour; ghee; cardamom; citric acid,nuts,180
+FB-151,Soan Papdi,Haldiram's,sweets_mithai,520,48,30,25,12,6,1,sugar; gram flour; refined wheat flour; ghee; vegetable oil; almonds; cardamom,nuts,150
+FB-152,Rasgulla (Tinned),Bikano,sweets_mithai,185,40,30,1.5,1,3.5,0,sugar; water; chhena (cottage cheese); refined wheat flour,,160

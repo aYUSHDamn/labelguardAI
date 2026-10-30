@@ -1,0 +1,119 @@
+{
+  "n_images": 12,
+  "model": "gemini-3.6-flash",
+  "n_tests": 46,
+  "n_endpoints": 32,
+  "loc_py": 4443,
+  "loc_js": 3293,
+  "extract": {
+    "clean": {
+      "ing_f1": 1.0,
+      "sugar_p": 1.0,
+      "sugar_r": 1.0,
+      "all_p": 1.0,
+      "all_r": 1.0,
+      "nut_acc": 1.0,
+      "score_err": 0.0,
+      "n": 35
+    },
+    "blur": {
+      "ing_f1": 1.0,
+      "sugar_p": 1.0,
+      "sugar_r": 1.0,
+      "all_p": 1.0,
+      "all_r": 1.0,
+      "nut_acc": 1.0,
+      "score_err": 0.0,
+      "n": 11
+    },
+    "rotate": {
+      "ing_f1": 1.0,
+      "sugar_p": 1.0,
+      "sugar_r": 1.0,
+      "all_p": 1.0,
+      "all_r": 1.0,
+      "nut_acc": 0.96,
+      "score_err": 0.9,
+      "n": 12
+    },
+    "low_light": {
+      "ing_f1": 1.0,
+      "sugar_p": 1.0,
+      "sugar_r": 1.0,
+      "all_p": 1.0,
+      "all_r": 1.0,
+      "nut_acc": 1.0,
+      "score_err": 0.0,
+      "n": 12
+    }
+  },
+  "repeat": {
+    "rules_identical": "12/12",
+    "sd": 0.0,
+    "identical": 12,
+    "jaccard": 1.0
+  },
+  "chat": {
+    "t1_sd": 1.1123724356957945,
+    "t1_range": 2.5,
+    "t1_ident": "4/8",
+    "t1_r": 0.7042511937163589,
+    "n_products": 8,
+    "runs": 5,
+    "t0_sd": 0.5561862178478972,
+    "t0_range": 1.25,
+    "t0_ident": "6/8",
+    "t0_r": 0.7134401336565355
+  },
+  "profile": {
+    "kw_fields": "52 / 60",
+    "kw_acc": "87%",
+    "llm_fields": "60 / 60",
+    "llm_acc": "100%",
+    "text": "The keyword parser, which needs no LLM, got 52 of 60 fields right (87%); it failed on conditions for which it has no keyword (obesity from 'trying to lose weight', heart disease from 'heart patient'), on a missing family member (father) and on one condition assigned to a second person. The Gemini parser matched all 60 expected fields, which supports using the LLM for free-text understanding with the keyword parser as an offline fall-back."
+  },
+  "usage": [
+    {
+      "task": "Profile parsing",
+      "ok": 1,
+      "calls": 1,
+      "in": 523,
+      "out": 378,
+      "sec": 4.131
+    },
+    {
+      "task": "Label extraction (vision)",
+      "ok": 15,
+      "calls": 28,
+      "in": 2108,
+      "out": 455,
+      "sec": 4.821666666666667
+    },
+    {
+      "task": "Family summary",
+      "ok": 25,
+      "calls": 35,
+      "in": 336,
+      "out": 175,
+      "sec": 4.539560000000001
+    },
+    {
+      "task": "Ask about a product (optional)",
+      "ok": 4,
+      "calls": 5,
+      "in": 573,
+      "out": 67,
+      "sec": 1.80725
+    },
+    {
+      "task": "Weekly report (optional)",
+      "ok": 4,
+      "calls": 4,
+      "in": 894,
+      "out": 359,
+      "sec": 3.26275
+    }
+  ],
+  "degrade_text": "Blur and low light caused no loss in any metric, and rotation by 15 degrees lowered nutrition accuracy to 96% (mean score error 0.9 points) because a few printed values were misread, while ingredients, hidden-sugar flags and allergen flags stayed perfect. These degradations are mild and synthetic, so they show robustness to moderate image problems rather than to real photographs. Two of the 72 extraction calls were lost to service time-outs of the Gemini API and are visible only as a smaller n in the table.",
+  "discussion": "The experiments have limits. The test labels are clean, synthetic renderings of 12 products, so the perfect scores on clean images show that the pipeline works end to end, not that every real photograph will be read perfectly; curved packaging, glare and small fonts are not covered. The ground truth for hidden sugars and allergens comes from the same rules, so those measures test the reading stage and not the rules themselves, which the unit tests cover. The plain-LLM comparison used one model and one prompt, and neither its scores nor the LabelGuard score is a clinical gold standard; the point is that the LabelGuard number can be recomputed and explained component by component. Finally, availability of the hosted model varied during testing, which is why the system uses caching and fall-backs."
+}

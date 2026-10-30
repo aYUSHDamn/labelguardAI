@@ -1,0 +1,55 @@
+alias,group,note
+sugar,sucrose,Plain table sugar
+cane sugar,sucrose,Table sugar from sugarcane
+raw sugar,sucrose,Lightly refined sucrose
+brown sugar,sucrose,Sucrose with molasses
+icing sugar,sucrose,Powdered sucrose
+powdered sugar,sucrose,Powdered sucrose
+castor sugar,sucrose,Fine sucrose
+caster sugar,sucrose,Fine sucrose
+demerara sugar,sucrose,Partly refined sucrose
+khandsari,sucrose,Traditional Indian unrefined sugar
+mishri,sucrose,Rock sugar candy
+jaggery,traditional,Gur - still sugar despite the 'natural' image
+gur,traditional,Jaggery
+shakkar,traditional,Powdered jaggery
+palm jaggery,traditional,Palm sugar (karupatti)
+karupatti,traditional,Palm jaggery
+coconut sugar,traditional,Still mostly sucrose
+date syrup,syrup,Concentrated fruit sugar
+dates paste,syrup,Concentrated fruit sugar
+honey,syrup,Mostly glucose and fructose
+golden syrup,syrup,Inverted sugar syrup
+invert sugar,syrup,Sucrose split into glucose + fructose
+invert syrup,syrup,Inverted sugar syrup
+invert sugar syrup,syrup,Inverted sugar syrup
+liquid glucose,syrup,Glucose syrup
+glucose syrup,syrup,Starch-derived syrup
+glucose-fructose syrup,syrup,Starch-derived syrup
+high fructose corn syrup,syrup,HFCS
+corn syrup,syrup,Starch-derived syrup
+fructose syrup,syrup,Concentrated fructose
+rice syrup,syrup,Starch-derived syrup
+brown rice syrup,syrup,Starch-derived syrup
+malt syrup,syrup,Malt-derived sugar
+barley malt extract,malt,Contains maltose
+malt extract,malt,Contains maltose
+maple syrup,syrup,Mostly sucrose
+agave syrup,syrup,High in fructose
+molasses,syrup,Sugar refining by-product
+treacle,syrup,Molasses
+caramel,syrup,Cooked sugar (not the colour INS 150)
+fruit juice concentrate,fruit,Counts as free sugar
+apple juice concentrate,fruit,Counts as free sugar
+grape juice concentrate,fruit,Counts as free sugar
+glucose,monosaccharide,Simple sugar
+dextrose,monosaccharide,Glucose
+fructose,monosaccharide,Fruit sugar
+maltose,disaccharide,Malt sugar
+lactose,disaccharide,Milk sugar - added when listed as ingredient
+galactose,monosaccharide,Simple sugar
+maltodextrin,starch_sugar,High glycemic index (raises blood sugar fast)
+dextrin,starch_sugar,Starch-derived carbohydrate
+sucrose,sucrose,Table sugar
+trehalose,disaccharide,Sugar
+isomaltulose,disaccharide,Sugar (slower absorbing)

@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Clean light theme. Tokens are RGB triplets so Tailwind can apply opacity.
+   Status colours are reserved for SAFE / WARN / AVOID and always ship with an icon + label. */
+:root {
+  color-scheme: light;
+  --surface: 246 247 249;   /* page background */
+  --card: 255 255 255;
+  --line: 230 232 236;
+  --ink: 17 24 39;
+  --muted: 107 114 128;
+  --brand: 79 70 229;       /* indigo accent */
+  --brand-ink: 255 255 255;
+  --brand-soft: 238 242 255;
+
+  --good: 22 163 74;
+  --good-ink: 21 128 61;
+  --good-bg: 240 253 244;
+  --good-line: 187 247 208;
+  --warn: 217 119 6;
+  --warn-ink: 180 83 9;
+  --warn-bg: 255 251 235;
+  --warn-line: 253 230 138;
+  --bad: 220 38 38;
+  --bad-ink: 185 28 28;
+  --bad-bg: 254 242 242;
+  --bad-line: 254 202 202;
+
+  /* charts: categorical slots 1-2 of the validated reference palette */
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --grid: #eceef1;
+  --chart-text: #6b7280;
+}
+
+html,
+body {
+  background: rgb(var(--surface));
+  color: rgb(var(--ink));
+  font-family: 'Inter', system-ui, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-line bg-card p-5 shadow-[0_1px_2px_rgba(16,24,40,0.04)] sm:p-6;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply btn bg-brand text-brand-ink shadow-sm hover:brightness-110;
+  }
+  .btn-ghost {
+    @apply btn border border-line bg-card text-ink hover:bg-surface;
+  }
+  .btn-soft {
+    @apply btn bg-brand-soft text-brand hover:brightness-95;
+  }
+  .input {
+    @apply w-full rounded-xl border border-line bg-card px-3 py-2 text-sm text-ink placeholder:text-muted focus:border-brand focus:outline-none focus:ring-4 focus:ring-brand/10;
+  }
+  .label {
+    @apply mb-1.5 block text-xs font-semibold uppercase tracking-wider text-muted;
+  }
+  .h2 {
+    @apply text-[15px] font-semibold text-ink;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full border border-line bg-card px-3 py-1.5 text-xs font-medium text-ink transition hover:border-brand hover:text-brand;
+  }
+}
+
+/* member colours for multi-series charts: categorical slots 1-4, fixed order */
+:root {
+  --series-3: #1baf7a;
+  --series-4: #eda100;
+}
+
+@media print {
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  aside, .no-print { display: none !important; }
+  .lg\:pl-64 { padding-left: 0 !important; }
+  body { background: white; }
+  .card { box-shadow: none; break-inside: avoid; }
+}

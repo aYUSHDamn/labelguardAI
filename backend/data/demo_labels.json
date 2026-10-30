@@ -1,0 +1,202 @@
+{
+  "choco_cream_biscuit": {
+    "product_name": "Choco Cream Biscuits (demo label)",
+    "brand": "DemoBrand",
+    "category": "biscuits_cookies",
+    "ingredients": [
+      "Refined wheat flour (maida)",
+      "Sugar",
+      "Edible vegetable oil (palm)",
+      "Invert sugar syrup",
+      "Cocoa solids (4%)",
+      "Cashew (2%)",
+      "Liquid glucose",
+      "Maltodextrin",
+      "Milk solids",
+      "Emulsifiers (INS 322, 471)",
+      "Raising agents [INS 503(ii), 500(ii)]",
+      "Iodised salt",
+      "Colour (INS 150d)",
+      "Artificial flavouring substances (vanilla)"
+    ],
+    "nutrition_per_100g": {
+      "energy_kcal": 480,
+      "sugar_g": 34,
+      "added_sugar_g": 31,
+      "sodium_mg": 330,
+      "fat_g": 19,
+      "sat_fat_g": 9.5,
+      "trans_fat_g": 0.1,
+      "carbs_g": 70,
+      "protein_g": 5.5,
+      "fiber_g": 2
+    },
+    "serving_size": "3 biscuits (20 g)",
+    "serving_size_g": 20,
+    "nutrition_per_serving": {
+      "energy_kcal": 96,
+      "sugar_g": 6.8,
+      "sodium_mg": 66
+    },
+    "claims": [
+      "healthy",
+      "made with whole wheat",
+      "no added preservatives"
+    ],
+    "may_contain": [
+      "peanut",
+      "soy"
+    ],
+    "barcode": null,
+    "confidence": 0.92,
+    "unreadable_fields": [],
+    "front_highlights": [
+      "cashew",
+      "chocolate",
+      "whole wheat"
+    ],
+    "front_messages": [
+      "healthy",
+      "for kids"
+    ]
+  },
+  "masala_noodles": {
+    "product_name": "Masala Instant Noodles (demo label)",
+    "brand": "DemoBrand",
+    "category": "instant_noodles",
+    "ingredients": [
+      "Refined wheat flour (maida)",
+      "Palm oil",
+      "Iodised salt",
+      "Wheat gluten",
+      "Thickeners (INS 508, 412)",
+      "Acidity regulators (INS 501(i), 500(i))",
+      "Humectant (INS 451(i))",
+      "Masala tastemaker [Mixed spices (24%) (onion powder, coriander, chilli, turmeric, garlic powder, cumin), Sugar, Iodised salt, Hydrolysed groundnut protein, Flavour enhancer (INS 635), Thickener (INS 508), Acidity regulator (INS 330)]"
+    ],
+    "nutrition_per_100g": {
+      "energy_kcal": 430,
+      "sugar_g": 2.5,
+      "sodium_mg": 1150,
+      "fat_g": 15,
+      "sat_fat_g": 7,
+      "carbs_g": 63,
+      "protein_g": 9,
+      "fiber_g": 2.5
+    },
+    "serving_size": "1 pack (70 g)",
+    "serving_size_g": 70,
+    "nutrition_per_serving": {},
+    "claims": [
+      "no added MSG",
+      "made with real spices"
+    ],
+    "may_contain": [
+      "milk",
+      "mustard",
+      "soy"
+    ],
+    "barcode": null,
+    "confidence": 0.9,
+    "unreadable_fields": [],
+    "front_highlights": [
+      "vegetables",
+      "spices"
+    ],
+    "front_messages": [
+      "made with real spices"
+    ]
+  },
+  "mango_drink": {
+    "product_name": "Mango Fruit Drink (demo label)",
+    "brand": "DemoBrand",
+    "category": "juices",
+    "ingredients": [
+      "Water",
+      "Sugar",
+      "Mango pulp (19%)",
+      "Acidity regulator (INS 330)",
+      "Stabilizer (INS 440)",
+      "Antioxidant (INS 300)",
+      "Preservative (INS 211)",
+      "Colour (INS 110)",
+      "Added flavours (natural & nature identical flavouring substances)"
+    ],
+    "nutrition_per_100g": {
+      "energy_kcal": 64,
+      "sugar_g": 15,
+      "added_sugar_g": 12,
+      "sodium_mg": 15,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "carbs_g": 16,
+      "protein_g": 0.1,
+      "fiber_g": null
+    },
+    "serving_size": "1 bottle (250 ml)",
+    "serving_size_g": 250,
+    "nutrition_per_serving": {},
+    "claims": [
+      "made with real fruit",
+      "energy drink for kids",
+      "no preservatives"
+    ],
+    "may_contain": [],
+    "barcode": null,
+    "confidence": 0.88,
+    "unreadable_fields": [
+      "fiber_g"
+    ],
+    "front_highlights": [
+      "mango"
+    ],
+    "front_messages": [
+      "real fruit",
+      "for kids",
+      "energy"
+    ]
+  },
+  "roasted_makhana": {
+    "product_name": "Roasted Makhana Pudina (demo label)",
+    "brand": "DemoBrand",
+    "category": "chips_namkeen",
+    "ingredients": [
+      "Fox nuts (makhana 88%)",
+      "Rice bran oil",
+      "Seasoning (iodised salt, dried mint, black salt, black pepper, dry mango powder)"
+    ],
+    "nutrition_per_100g": {
+      "energy_kcal": 410,
+      "sugar_g": 1.2,
+      "sodium_mg": 480,
+      "fat_g": 12,
+      "sat_fat_g": 2.2,
+      "carbs_g": 64,
+      "protein_g": 10,
+      "fiber_g": 9
+    },
+    "serving_size": "1 pack (30 g)",
+    "serving_size_g": 30,
+    "nutrition_per_serving": {},
+    "claims": [
+      "roasted not fried",
+      "high fibre",
+      "source of protein"
+    ],
+    "may_contain": [
+      "peanut",
+      "tree nuts"
+    ],
+    "barcode": null,
+    "confidence": 0.95,
+    "unreadable_fields": [],
+    "front_highlights": [
+      "makhana",
+      "mint"
+    ],
+    "front_messages": [
+      "roasted not fried",
+      "healthy snack"
+    ]
+  }
+}

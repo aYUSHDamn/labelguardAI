@@ -1,0 +1,50 @@
+ins,name,aliases,class,purpose,concern,note
+102,Tartrazine,tartrazine|yellow 5,colour,Synthetic yellow colour,high,One of the 'Southampton six' colours linked to hyperactivity in some children
+104,Quinoline Yellow,quinoline yellow,colour,Synthetic yellow colour,high,Southampton six colour
+110,Sunset Yellow FCF,sunset yellow|yellow 6,colour,Synthetic orange-yellow colour,high,Southampton six colour
+122,Carmoisine,carmoisine|azorubine,colour,Synthetic red colour,high,Southampton six colour
+124,Ponceau 4R,ponceau 4r|ponceau,colour,Synthetic red colour,high,Southampton six colour
+129,Allura Red AC,allura red|red 40,colour,Synthetic red colour,high,Southampton six colour
+127,Erythrosine,erythrosine|red 3,colour,Synthetic pink-red colour,medium,Restricted in several countries
+133,Brilliant Blue FCF,brilliant blue|blue 1,colour,Synthetic blue colour,medium,Synthetic dye
+150d,Sulphite Ammonia Caramel,caramel colour|caramel color|class iv caramel,colour,Brown colour,medium,Can contain 4-MEI as a by-product
+171,Titanium Dioxide,titanium dioxide,colour,White colour,high,Banned as a food additive in the EU since 2022
+120,Carmine,carmine|cochineal|carminic acid,colour,Red colour made from insects,low,Not vegetarian
+211,Sodium Benzoate,sodium benzoate,preservative,Preservative,medium,Can form benzene with vitamin C in drinks
+202,Potassium Sorbate,potassium sorbate,preservative,Preservative,low,Generally well tolerated
+220,Sulphur Dioxide,sulphur dioxide|sulfur dioxide,preservative,Preservative,medium,Sulphites can trigger asthma in sensitive people
+223,Sodium Metabisulphite,sodium metabisulphite|sodium metabisulfite,preservative,Preservative,medium,Sulphite - asthma trigger in sensitive people
+250,Sodium Nitrite,sodium nitrite,preservative,Preservative in processed meat,high,Linked to nitrosamine formation
+251,Sodium Nitrate,sodium nitrate,preservative,Preservative,high,Linked to nitrosamine formation
+282,Calcium Propionate,calcium propionate,preservative,Bread preservative,low,Common in packaged bread
+319,TBHQ,tbhq|tertiary butylhydroquinone,antioxidant,Stops fats going rancid,medium,Synthetic antioxidant with an intake limit
+320,BHA,bha|butylated hydroxyanisole,antioxidant,Stops fats going rancid,high,Possible carcinogen (IARC 2B)
+321,BHT,bht|butylated hydroxytoluene,antioxidant,Stops fats going rancid,medium,Synthetic antioxidant
+322,Lecithin,lecithin|soy lecithin|soya lecithin|sunflower lecithin,emulsifier,Helps oil and water mix,low,Usually from soy or sunflower
+330,Citric Acid,citric acid,acidity_regulator,Adds sourness / acidity,low,Generally harmless
+338,Phosphoric Acid,phosphoric acid,acidity_regulator,Acid in cola drinks,medium,High phosphate intake is a concern for kidney patients
+339,Sodium Phosphates,sodium phosphate|disodium phosphate,acidity_regulator,Acidity regulator,medium,Adds phosphate and sodium
+341,Calcium Phosphates,calcium phosphate,acidity_regulator,Acidity regulator / anticaking,low,Adds phosphate
+407,Carrageenan,carrageenan,thickener,Thickener from seaweed,medium,Some evidence of gut irritation
+412,Guar Gum,guar gum,thickener,Thickener,low,Plant fibre
+415,Xanthan Gum,xanthan gum,thickener,Thickener,low,Generally harmless
+433,Polysorbate 80,polysorbate 80,emulsifier,Emulsifier,medium,May affect gut bacteria in animal studies
+450,Diphosphates,diphosphate|disodium diphosphate|sodium acid pyrophosphate,raising_agent,Raising agent,medium,Phosphate additive
+451,Triphosphates,triphosphate|sodium tripolyphosphate,stabilizer,Stabilizer,medium,Phosphate additive
+452,Polyphosphates,polyphosphate,stabilizer,Stabilizer,medium,Phosphate additive
+466,Carboxymethyl Cellulose,carboxymethyl cellulose|cmc,thickener,Thickener,medium,May affect gut bacteria in animal studies
+471,Mono- and Diglycerides of Fatty Acids,mono- and diglycerides|mono and diglycerides|monoglycerides,emulsifier,Emulsifier,low,Can be plant or animal derived - check source
+481,Sodium Stearoyl Lactylate,sodium stearoyl lactylate,emulsifier,Dough strengthener,low,Can be animal derived
+500,Sodium Carbonates,sodium bicarbonate|baking soda|sodium hydrogen carbonate,raising_agent,Raising agent,low,Adds sodium
+503,Ammonium Carbonates,ammonium bicarbonate|ammonium hydrogen carbonate,raising_agent,Raising agent,low,Common in biscuits
+621,Monosodium Glutamate,monosodium glutamate|msg,flavour_enhancer,Flavour enhancer,medium,Adds sodium; some people report sensitivity
+627,Disodium Guanylate,disodium guanylate,flavour_enhancer,Flavour enhancer,medium,Often from fish or yeast - check source
+631,Disodium Inosinate,disodium inosinate,flavour_enhancer,Flavour enhancer,medium,Often from meat or fish - check source
+635,Disodium 5'-Ribonucleotides,ribonucleotides|disodium 5-ribonucleotides,flavour_enhancer,Flavour enhancer,medium,Often animal-derived - check source
+950,Acesulfame K,acesulfame|acesulfame potassium|acesulfame k,sweetener,Artificial sweetener,medium,Long-term effects still being studied
+951,Aspartame,aspartame,sweetener,Artificial sweetener,high,IARC 'possibly carcinogenic' (2B) in 2023; avoid with PKU
+954,Saccharin,saccharin,sweetener,Artificial sweetener,medium,Not advised in pregnancy by some guidelines
+955,Sucralose,sucralose,sweetener,Artificial sweetener,medium,May affect gut bacteria
+960,Steviol Glycosides,stevia|steviol glycosides,sweetener,Plant-derived sweetener,low,Generally considered safe
+965,Maltitol,maltitol,sweetener,Sugar alcohol,low,Can cause bloating; still raises blood sugar a little
+1422,Acetylated Distarch Adipate,acetylated distarch adipate,thickener,Modified starch thickener,low,Ultra-processing marker

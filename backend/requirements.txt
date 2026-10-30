@@ -1,0 +1,18 @@
+# Tested with Python 3.11+ (developed on 3.14). Install: pip install -r requirements.txt
+fastapi==0.143.2
+uvicorn[standard]==0.54.0
+pydantic==2.14.1
+python-dotenv==1.2.4
+python-multipart==0.0.32
+google-genai==2.31.0
+requests==2.34.2
+pandas==3.0.6
+Pillow==12.3.0
+pytest==9.1.1
+httpx==0.28.1
+# Optional extra (barcode decoding). On Windows the wheel bundles zbar;
+# on macOS: brew install zbar; on Linux: apt install libzbar0
+# pyzbar==0.1.9
+
+# Optional: only for docs/make_paper.py (project report PDF)
+reportlab==5.1.0
